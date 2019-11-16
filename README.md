@@ -1,5 +1,5 @@
-# Deprecated Package
+# Security Package
 
-This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name.
+This package is no longer publicly available. To avoid malicious use, [@founda](https://github.com/founda) is hanging on to the package name.
 
-Please contact support@npmjs.com if you have questions about this package. 
+Please contact support@founda.com if you have questions about this package. 
