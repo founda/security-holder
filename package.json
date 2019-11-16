@@ -1,5 +1,5 @@
 {
-  "name": "XXXXXXX",
+  "name": "founda",
   "version": "0.0.1-security",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npm/deprecate-holder.git"
+    "url": "git+https://github.com/founda/security-holder.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npm/deprecate-holder/issues"
+    "url": "https://github.com/founda/security-holder/issues"
   },
-  "homepage": "https://github.com/npm/deprecate-holder#readme"
+  "homepage": "https://github.com/founda/security-holder#readme"
 }
